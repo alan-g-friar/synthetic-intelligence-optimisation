@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.placeholder.svg)](https://doi.org/10.5281/zenodo.placeholder)
+[![DOI](https://zenodo.org/badge/1279172898.svg)](https://doi.org/10.5281/zenodo.20835193)
 
 # Synthetic Intelligence Optimisation (SIO)
 Specification Baseline — Version 1.0  
