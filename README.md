@@ -1,7 +1,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.placeholder.svg)](https://doi.org/10.5281/zenodo.placeholder)
 
 # Synthetic Intelligence Optimisation (SIO)
-Specification Baseline — Version 1.0
+Specification Baseline — Version 1.0  
+
 Preparing Digital Entities for Autonomous Synthetic Intelligence Systems
 
 Author: Alan Friar  
