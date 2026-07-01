@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Synthetic Intelligence Optimisation (SIO): Specification Baseline"
+version: 1.0.0
+date-released: 2026-06-24
+authors:
+  - family-names: Friar
+    given-names: Alan
+    orcid: "https://orcid.org/0009-0000-6986-1771"
+    affiliation: "EnBra Group LLC"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20835194"
+license: CC-BY-4.0
+repository-code: "https://github.com/alan-g-friar/synthetic-intelligence-optimisation"
